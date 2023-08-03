@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Component solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/mobilefirst-approach-qr-code-component-uZzXUtKWKZ))
+- Live Site URL: [Solution Live Site]([https://your-live-site-url.com](https://triii3.github.io/mobile-first-qr-code/))
 
 ## My process
 
@@ -79,4 +79,3 @@ I'd like to focus more on how to get the correct dimensions/width/height of an e
 - Frontend Mentor - [@Triii3](https://www.frontendmentor.io/profile/Triii3)
 - Twitter - [@TriiiCodes](https://twitter.com/TriiiCodes)
 
-## Acknowledgments
