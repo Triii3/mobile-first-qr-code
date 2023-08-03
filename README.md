@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Code Component solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/mobilefirst-approach-qr-code-component-uZzXUtKWKZ))
-- Live Site URL: [Solution Live Site]([https://your-live-site-url.com](https://triii3.github.io/mobile-first-qr-code/))
+- Solution URL: ![QR Code Component solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/mobilefirst-approach-qr-code-component-uZzXUtKWKZ))
+- Live Site URL: ![Solution Live Site]([https://your-live-site-url.com](https://triii3.github.io/mobile-first-qr-code/))
 
 ## My process
 
